@@ -1,1 +1,1 @@
-# Hodgkin-Huxley_model
+# Kuramoto model
